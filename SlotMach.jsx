@@ -31,7 +31,7 @@ const SlotM =(props) => {
   
     }
   
-  }
+  };
 
   
   export default SlotM;
